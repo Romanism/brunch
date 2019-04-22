@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# jypter notebook
+.ipynb_checkpoints/
+
+# DS_Store
+.DS_Store
+
+# VS Code
+.vscode
